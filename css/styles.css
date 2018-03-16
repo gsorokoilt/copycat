@@ -1,0 +1,85 @@
+.logo {
+  background-color: #06D6A0; text-align: center; color: white;
+  border: 0px;
+
+
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#cats {
+  background-color: #FFD166
+}
+.Latin {
+  padding: 30px 20px;
+  }
+.navigation {
+  width: 100%;
+  text-align: right;
+  padding: 20px;
+  display: inline-block;
+
+}
+.welcome {
+  display: inline-block;
+  text-align: center;
+  border-bottom: 5px solid red;
+  padding-bottom:10px;
+  font-weight: bold;
+}
+.name {
+  width: 33%
+  }
+.site_name {
+  float: left;
+}
+.logo {
+  text-align: left;
+}
+.home {
+
+  float: right;
+  padding: 20px;
+  position: relative;
+  bottom: 75px;
+}
+.hats{
+  float: left;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+.welcome {
+  float: right;
+}
+
+.about {
+  background-color: #26547C;
+}
+
+.reds {
+  color: red;
+  font-variant-caps: all-small-caps;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.reds_latin {
+  color: white
+}
+.fun {
+  text-align:left;
+
+}
+.values {
+  text-align: center;
+
+}
+.meow {
+
+  text-align: right;
+}
